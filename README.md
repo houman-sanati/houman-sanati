@@ -1,9 +1,6 @@
 ### <div align="center">I'm Houman, a full-time full-stack Web3 developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🏅 I’m a member of [Prokey Technologies](https://github.com/prokey-io)  
-  
-
 - 🌱 I’m currently learning Solidity and Wallet concepts  
   
 
