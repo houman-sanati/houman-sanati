@@ -1,46 +1,19 @@
-### <div align="center">I'm Houman, a full-time full-stack Web3 developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
+# Houman Sanati
 
-- 🌱 I’m currently learning Solidity and Wallet concepts  
-  
+Frontend Developer | Web3 Developer | Smart Contract Developer
 
-- ❓ Ask me about anything related to Web3.0 stack  
-  
+Web3 developer with 4 years of experience in frontend and smart contract development, as well as a strong interest and skill in testing. Passionate about blockchain technology and delivering secure, innovative decentralized applications. Adept at collaborating and staying current with industry trends, and committed to ensuring the quality and reliability of all code through rigorous testing practices.
 
-<br/>  
+## TECHNICAL SKILLS
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
-
-</td></tr></table>  
+- Programming Languages: JavaScript, TypeScript
+- Frontend Development: HTML, CSS, React, Redux Toolkit, RTK Query, Next.js, SSR, SSG, Vite, Formik, Yup, Material UI, Tailwindcss, Bootstrap, Responsive Design
+- Blockchain Technologies: Solidity, Web3.js, Ethers.js, Web3Modal, WalletConnect, Web3-Onboard, Metamask
+- Smart Contracts: Developing and integrating smart contracts
+- Testing: Mocha, Chai
+- Version Control: Git, Github
+- DevOps: Docker
+- Other Tools and Libraries: Axios, React Paginate, Rest API
 
 <br/>  
 
