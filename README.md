@@ -33,13 +33,3 @@ Web3 developer with 4 years of experience in frontend and smart contract develop
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=houman-sanati&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houman-sanati&layout=compact" align="center" />
-</div>
